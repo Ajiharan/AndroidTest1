@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="bmi_weight">Enter Your Weight</string>
+    <string name="bmi_height">Enter Your Height</string>
+    <string name="btn_cal">FIND BMI</string>
+    <string name="under">Under Weight</string>
+    <string name="normal">Normal Weight</string>
+    <string name="over">Over Weight</string>
+    <string name="obesity">Obesity</string>
+    <string name="next_page">Next</string>
+
+</resources>
